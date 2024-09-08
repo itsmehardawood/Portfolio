@@ -216,7 +216,7 @@ footer h2{
 @media only screen and (min-width: 380px) and (max-width: 450px) {
 
     .navbar{
-        height: 80px;
+        height: 90px;
         justify-content: center;
         
      
@@ -233,7 +233,7 @@ footer h2{
         display: flex;
         flex-direction: row;
         height: 90px;
-        top: 6.3%;
+        top: 7.2%;
         width: 590px;
         justify-content: space-between;
 
