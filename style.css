@@ -213,7 +213,7 @@ footer h2{
 
 
 /* Pixel 7 */
-@media only screen and (min-width: 400px) and (max-width: 450px) {
+@media only screen and (min-width: 380px) and (max-width: 450px) {
 
     .navbar{
         height: 80px;
